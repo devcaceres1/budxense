@@ -1,0 +1,17 @@
+insert into user values ( 1, 'Denisse',   'dev.caceres1@gmail.com' )
+insert into user values ( 2, 'Ryan',      'ryan.martinez5@yahoo.com' )
+insert into user values ( 3, 'Ninoshka',  'ninoshka.martinez@icloud.com')
+insert into user values ( 4, 'Sevastyan', 'sevastyan.martinez@icloud.com')
+insert into user values ( 5, 'Linda',     'lindaashley12@gmail.com')
+
+insert into category values ( 1, 'Groceries' )
+insert into category values ( 2, 'Entertainment')
+insert into category values ( 3, 'Student Loan')
+insert into category values ( 4, 'Shopping')
+insert into category values ( 5, 'Food')
+
+insert into expense values ( 10, '2020-05-25T11:29:00:000Z', 'Bought some tofu', 1, 1 )
+insert into expense values ( 11, '2020-05-05T01:46:00:000Z', '2k came out!', 2, 2)
+insert into expense values ( 12, '2020-05-30T15:03:00:000Z', 'Lol dolls are so cute, had to get 5', 3, 4 )
+insert into expense values ( 13, '2020-05-03T12:29:00:000Z', 'Pollo with fries!',4,1)
+insert into expense values ( 14, '2020-05-28T14:18:00:000Z','Birthday gift to myself', 5, 4)
